@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kostromichov Roman
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning -  Vue 2, and React.js
+- 👀 I’m front-end development.
+- 🌱 Work with Vu3, Vue 2, and React.js
 - 
 - 📫 kostromichov.roman@gmail.com
